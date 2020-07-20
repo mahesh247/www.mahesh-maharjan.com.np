@@ -1,12 +1,12 @@
 name: Mahesh Maharjan
-bio: |
+bio: >-
   Written by You. This is where your author bio lives. Share your work, your
   joys and of course, your Twitter handle.
-avatar: ./avatars/mahesh-maharjan.jpg
-social:
-  - url: https://facebook.com/mahesh247
-  - url: https://stackoverflow.com/mahesh247
-  - url: https://github.com/mahesh247
-  - url: https://twitter.com/me.mahesh247
-  - url: https://instagram.com/me.mahesh247
 featured: true
+avatar: avatars/mahesh.jpg
+social:
+  - url: 'https://facebook.com/mahesh247'
+  - url: 'https://stackoverflow.com/mahesh247'
+  - url: 'https://github.com/mahesh247'
+  - url: 'https://twitter.com/me.mahesh247'
+  - url: 'https://instagram.com/me.mahesh247'

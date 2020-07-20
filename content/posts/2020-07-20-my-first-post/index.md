@@ -1,5 +1,5 @@
 ---
-title: My First Post 123
+title: My First Post
 author: Mahesh Maharjan
 date: 2019-07-20T00:00:00.000Z
 excerpt: >-

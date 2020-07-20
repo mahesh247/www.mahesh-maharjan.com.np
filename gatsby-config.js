@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Mahesh Maharjan`,
     name: `Mahesh Maharjan`,
-    siteUrl: `https://novela.narative.co`,
+    siteUrl: `https://www.mahesh-maharjan.com.np`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
       heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
